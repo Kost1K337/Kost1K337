@@ -1,24 +1,28 @@
 # Konstantin Pechko
 
-PhD researcher | Computational modeling | Energy systems | AI for engineering
+PhD researcher | Lead Data Analyst at Gazprom Neft | Machine Learning for Engineering Systems
 
-I work on multiscale modeling and surrogate-based optimization of oil and gas systems.
+I work on applying machine learning methods to complex engineering problems in energy systems.
+My work combines data-driven approaches with numerical modeling, optimization methods, and large-scale simulation software.
 
-My research focuses on:
-- Integrated Asset Modeling (IAM)
-- Surrogate modeling and active learning
-- Multi-fidelity optimization
-- Digital twins for energy systems
+My research and engineering focus on:
+	•	Machine learning for engineering systems
+	•	Surrogate modeling and data-driven simulation acceleration
+	•	Reinforcement learning for decision support and planning
+	•	Optimization methods and numerical algorithms
+	•	Development of scientific and engineering software
 
 ---
 
 ## Research interests
 
-- Multiscale modeling
-- Surrogate models
-- Bayesian optimization
-- Reinforcement learning for engineering systems
-- Digital oilfield technologies
+	•	Machine Learning (classical ML)
+	•	Reinforcement Learning
+	•	Computer Vision
+	•	Optimization methods
+	•	Numerical methods
+	•	Scientific and engineering software
+	•	Digital technologies for energy systems
 
 ---
 
