@@ -22,11 +22,15 @@ My research focuses on:
 
 ---
 
-## Current projects
+## Projects
 
-- **MetActive** — framework for active learning in reservoir and production modeling
-- **IAM Forecast tools** — forecasting framework for integrated asset models
-- **Cashbacker bot** — personal finance Telegram bot
+- **MetActive** — framework for surrogate modeling of Integrated Asset Models (IAM) using active machine learning to accelerate reservoir and production simulations.
+
+- **Scenario Generation System** — reinforcement learning–based system for automated generation of drilling scenarios and well placement strategies.
+
+- **Cashbacker bot** — Telegram bot for tracking cashback categories across multiple bank cards and optimizing personal spending.
+
+- **LifeOS** — LLM-based assistant for restructuring reminders and calendar events on iOS devices.
 
 ---
 
