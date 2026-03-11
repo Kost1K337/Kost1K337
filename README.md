@@ -40,28 +40,31 @@ My research and engineering focus on:
 
 ---
 
-## Publications
-
-- Pechko K., *Multiscale modeling of oil and gas processes using surrogate models*, PhD thesis
-
----
 
 ## Teaching
 
 Courses I teach:
-- Numerical modeling in petroleum engineering
-- Machine learning for engineering systems
-- Python for scientific computing
+
+- Computer Science
+- Python Programming
+- Practical Applications of Machine Learning Algorithms
+- Data Analytics
 
 ---
 
 ## Tech stack
 
-Python, PyTorch, NumPy, Pandas  
-tNavigator, Integrated Asset Modeling  
-Optimization, ML, scientific computing
+**Core:** Python, ML systems, optimization algorithms, scientific computing, software architecture
 
----
+**ML:** PyTorch, Scikit-learn, Reinforcement Learning, Computer Vision
+
+**Engineering:** API design, microservices, distributed systems
+
+**Infrastructure:** Linux, Docker, CI/CD
+
+**Data:** SQL, PostgreSQL, data pipelines
+
+**Domain:** Petroleum Engineering, Integrated Asset Modeling, Geophysics, Digital Twins
 
 ## Contacts
 
