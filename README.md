@@ -2,27 +2,29 @@
 
 PhD researcher | Lead Data Analyst at Gazprom Neft | Machine Learning for Engineering Systems
 
-I work on applying machine learning methods to complex engineering problems in energy systems.
+
+I work on applying machine learning methods to complex engineering problems in energy systems.  
 My work combines data-driven approaches with numerical modeling, optimization methods, and large-scale simulation software.
 
 My research and engineering focus on:
-	•	Machine learning for engineering systems
-	•	Surrogate modeling and data-driven simulation acceleration
-	•	Reinforcement learning for decision support and planning
-	•	Optimization methods and numerical algorithms
-	•	Development of scientific and engineering software
+
+- Machine learning for engineering systems
+- Surrogate modeling and data-driven simulation acceleration
+- Reinforcement learning for decision support and planning
+- Optimization methods and numerical algorithms
+- Development of scientific and engineering software
 
 ---
 
 ## Research interests
 
-	•	Machine Learning (classical ML)
-	•	Reinforcement Learning
-	•	Computer Vision
-	•	Optimization methods
-	•	Numerical methods
-	•	Scientific and engineering software
-	•	Digital technologies for energy systems
+- Machine Learning (classical ML)
+- Reinforcement Learning
+- Computer Vision
+- Optimization methods
+- Numerical methods
+- Scientific and engineering software
+- Digital technologies for energy systems
 
 ---
 
